@@ -1,0 +1,89 @@
+body{
+	background-image:url(Img/2.jpg)
+}
+#one{
+	background-color:black;
+	margin: 20px 20px 0px 20px;
+	color:#FFFFFF;
+	padding:20px;
+	border:0;
+	font-size:200%;
+	background-image:url(Img/2.png);
+	background-repeat:no-repeat;
+	background-position: 45px center;
+	font-weight:900;
+	font:50px Comic Sans MS;
+	height:1;
+	text-indent:100px;
+}
+#one1{
+	background-color:black;
+	margin: 0px auto 0px 0px;
+	color:#FFFFFF;
+	padding:0px;
+	border-left:900;
+	text-align:right;
+}
+
+#two{
+	padding-top:20px;
+	border:0;
+	margin:0px;
+	background-color:#FFFFFF;
+	margin: 0px 20px 40px 20px;
+	text-align:center;
+	font:35px Comic Sans MS;
+}
+#text{
+	padding-top:40px;
+	border:0;
+	margin:0px;
+	background-color:#000000;
+	margin: 0px 20px 20px 20px;
+	text-align:center;
+	font:35px Comic Sans MS;
+	color:#FFFFFF
+}
+#text_1{
+	padding-top:40px;
+	border:0;
+	margin:0px;
+	background-color:#000000;
+	margin: 0px 20px 20px 20px;
+	text-align:center;
+	font:25px Comic Sans MS;
+	color:#FFFFFF
+}
+#text2{
+	padding-top:40px;
+	border:0;
+	margin:0px;
+	background-color:#FFFFFF;
+	margin: 0px 20px 20px 20px;
+	text-align:center;
+	font:35px Comic Sans MS;
+	color:#000000
+}
+#text2_1{
+	padding-top:40px;
+	border:0;
+	margin:0px;
+	background-color:#FFFFFF;
+	margin: 0px 20px 20px 20px;
+	text-align:center;
+	font:25px Comic Sans MS;
+	color:#000000
+}
+.hello{
+	font-style:italic;
+}
+#but{	
+    text-align:center;
+	margin: 0px 20px 20px 20px;
+}
+#exit1{	
+    text-align:center;
+	color:#FFFFFF;
+	font:25px Comic Sans MS;
+	margin: 0px 20px 20px 20px;
+}
