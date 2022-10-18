@@ -1,5 +1,5 @@
 body{
-	background-image:url(Img/2.jpg)
+	background-image:url(2.jpg)
 }
 #one{
 	background-color:black;
@@ -8,7 +8,7 @@ body{
 	padding:20px;
 	border:0;
 	font-size:200%;
-	background-image:url(Img/2.png);
+	background-image:url(2.png);
 	background-repeat:no-repeat;
 	background-position: 45px center;
 	font-weight:900;
